@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2c589219ba3a144b8c3bce9fc11cff8
+timeCreated: 1459038899
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flashPoint: {instanceID: 0}
+  - muzzleFlash: {fileID: 139856, guid: 8dfeb41c35dee0b4c9da90f638ee3dd9, type: 2}
+  - shoot: {instanceID: 0}
+  - _animator: {instanceID: 0}
+  - goblin: {fileID: 100086, guid: 0f5ecab30258a624c838f05fe6cb56db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
